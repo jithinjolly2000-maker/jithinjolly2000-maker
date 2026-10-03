@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jithin 👋
 
-<!--
-**jithinjolly2000-maker/jithinjolly2000-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business & Operations Analyst | AI-Driven Automation | BI & Reporting**
 
-Here are some ideas to get you started:
+I turn manual, repetitive business processes into automated tools — designing the logic and workflows, then building them with AI (agentic AI) and classic tooling (Excel/VBA, Python, Power BI).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't come from a computer-science background. I learned how to *use AI to build* the solutions my work actually needed — and shipped them to production.
+
+---
+
+### 🚀 What I do
+- **Process automation** — turning 4-minute manual tasks into sub-20-second automated ones
+- **Business Intelligence** — dashboards & reporting in Power BI, Tableau, Excel
+- **Data integrity & audits** — reconciliation, root-cause analysis, prevention SOPs
+- **AI-assisted analytics** — building and directing agentic-AI tools
+
+### 🧰 Toolkit
+`Agentic AI` · `Power BI` · `Tableau` · `Advanced Excel / VBA` · `SQL` · `Python` · `Power Automate` · `Process Automation`
+
+### 🏆 Highlights
+- 🥇 Director-level (L8) Strategic Innovation Award for an AI payments-automation tool
+- 📊 Built automation sustaining 100% quality and 95%+ SLA
+- 🌍 Automated validation across multiple European markets
+
+### 📫 Connect
+- LinkedIn: [linkedin.com/in/jithin2k](https://www.linkedin.com/in/jithin2k)
+- Email: jithinjolly2000@gmail.com
+
+---
+*Currently exploring roles in Business Intelligence, Process Automation, and AI-driven operations.*
