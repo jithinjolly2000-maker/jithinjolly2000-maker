@@ -1,30 +1,54 @@
-# Hi, I'm Jithin 👋
+<p align="center">
+  <img src="banner.svg" alt="Jithin J — analyst who designs systems: data, automation, risk and controls" width="100%">
+</p>
 
-**Business & Operations Analyst | AI-Driven Automation | BI & Reporting**
+<p align="center">
+  <a href="https://jithinjolly2000-maker.github.io"><img src="https://img.shields.io/badge/portfolio-live-c9a66b?style=flat-square&labelColor=0a0c0f" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/jithin2k"><img src="https://img.shields.io/badge/LinkedIn-jithin2k-7fb6c4?style=flat-square&labelColor=0a0c0f" alt="LinkedIn"></a>
+  <a href="mailto:jithinjolly2000@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-e4c88f?style=flat-square&labelColor=0a0c0f" alt="Email"></a>
+</p>
 
-I turn manual, repetitive business processes into automated tools — designing the logic and workflows, then building them with AI (agentic AI) and classic tooling (Excel/VBA, Python, Power BI).
+### `01 / about`
 
-I don't come from a computer-science background. I learned how to *use AI to build* the solutions my work actually needed — and shipped them to production.
+I design **data and automation systems** (validation tools, control dashboards, risk models) and build them with AI.
 
----
+I don't come from a computer-science background. My strength is understanding a messy process deeply, designing the logic that fixes it, and then using AI to turn that design into a working tool.
 
-### 🚀 What I do
-- **Process automation** — turning 4-minute manual tasks into sub-20-second automated ones
-- **Business Intelligence** — dashboards & reporting in Power BI, Tableau, Excel
-- **Data integrity & audits** — reconciliation, root-cause analysis, prevention SOPs
-- **AI-assisted analytics** — building and directing agentic-AI tools
+### `02 / how I design a system`
 
-### 🧰 Toolkit
-`Agentic AI` · `Power BI` · `Tableau` · `Advanced Excel / VBA` · `SQL` · `Python` · `Power Automate` · `Process Automation`
+```mermaid
+flowchart LR
+    A["Map the process<br/><i>where time & errors go</i>"] --> B["Design the logic<br/><i>rules · data flows · edge cases</i>"]
+    B --> C["Build with AI<br/><i>working tool, fast</i>"]
+    C --> D["Measure & refine<br/><i>before / after · accuracy</i>"]
+    B -. "exceptions" .-> H["Human review"]
+    H -. "feedback" .-> B
+```
 
-### 🏆 Highlights
-- 🥇 Director-level (L8) Strategic Innovation Award for an AI payments-automation tool
-- 📊 Built automation sustaining 100% quality and 95%+ SLA
-- 🌍 Automated validation across multiple European markets
+### `03 / featured systems`
 
-### 📫 Connect
-- LinkedIn: [linkedin.com/in/jithin2k](https://www.linkedin.com/in/jithin2k)
-- Email: jithinjolly2000@gmail.com
+| System | What it does | Links |
+|---|---|---|
+| ⚖️ **Appeals Risk & Exposure Model** | Volume trends, error root causes, expected-exposure heatmap and what-if scenarios | [Live](https://jithinjolly2000-maker.github.io/appeals-risk-exposure-model/) · [Code](https://github.com/jithinjolly2000-maker/appeals-risk-exposure-model) |
+| 🎛️ **Ops Control Center** | Weekly capacity vs demand, automation actuals vs plan, per-agent impact | [Live](https://jithinjolly2000-maker.github.io/ops-control-center/) · [Code](https://github.com/jithinjolly2000-maker/ops-control-center) |
+| 🔄 **CSV Reconciliation Tool** | Matches two files and surfaces mismatches and one-sided rows, fully in-browser | [Live](https://jithinjolly2000-maker.github.io/csv-reconciliation-tool/) · [Code](https://github.com/jithinjolly2000-maker/csv-reconciliation-tool) |
+| 🛡️ **Compliance Audit Dashboard** | Exception flagging, exposure views and drill-down | [Live](https://jithinjolly2000-maker.github.io/compliance-audit-dashboard/) · [Code](https://github.com/jithinjolly2000-maker/compliance-audit-dashboard) |
+| 🧩 **Segmentation Logic Explorer** | 50+ rule codes, live rule tester and conflict/overlap checks | [Live](https://jithinjolly2000-maker.github.io/segmentation-logic-explorer/) · [Code](https://github.com/jithinjolly2000-maker/segmentation-logic-explorer) |
+| 🗄️ **SQL Playground** | A real SQLite database in the browser: JOINs, CTEs and window functions all work | [Live](https://jithinjolly2000-maker.github.io/sql-playground/) · [Code](https://github.com/jithinjolly2000-maker/sql-playground) |
 
----
-*Currently exploring roles in Business Intelligence, Process Automation, and AI-driven operations.*
+<sub>All demos run on synthetic data. Nothing is uploaded; your data stays on your machine.</sub>
+
+### `04 / toolkit`
+
+`SQL` · `PostgreSQL` · `SAS` · `Python` · `Advanced Excel / VBA` · `Power BI` · `Tableau` · `QuickSight` · `Flask` · `FastAPI` · `Node` · `Agentic AI tools`
+
+<sub>Python and JavaScript work is AI-assisted.</sub>
+
+### `05 / recognition`
+
+- 🏆 Invent & Simplify Award — Amazon (Director/L8), 2026
+- 🥇 Best Performer of the Month (May 2026)
+
+### `06 / say hi`
+
+Open to analytics, risk & controls, BI and automation roles. See everything at **[jithinjolly2000-maker.github.io](https://jithinjolly2000-maker.github.io)**.
