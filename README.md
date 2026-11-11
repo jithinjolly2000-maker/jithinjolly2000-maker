@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Jithin J — analyst who designs systems: data, automation, risk and controls" width="100%">
+  <img src="banner.svg" alt="Jithin J — Build steady. Ship often. Keep your balance." width="100%">
 </p>
 
 <p align="center">
@@ -8,13 +8,13 @@
   <a href="mailto:jithinjolly2000@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-e4c88f?style=flat-square&labelColor=0a0c0f" alt="Email"></a>
 </p>
 
-### `01 / about`
+### About
 
 I design **data and automation systems** (validation tools, control dashboards, risk models) and build them with AI.
 
 I don't come from a computer-science background. My strength is understanding a messy process deeply, designing the logic that fixes it, and then using AI to turn that design into a working tool.
 
-### `02 / how I design a system`
+### How I work
 
 ```mermaid
 flowchart LR
@@ -25,7 +25,7 @@ flowchart LR
     H -. "feedback" .-> B
 ```
 
-### `03 / featured systems`
+### Featured projects
 
 | System | What it does | Links |
 |---|---|---|
@@ -38,17 +38,17 @@ flowchart LR
 
 <sub>All demos run on synthetic data. Nothing is uploaded; your data stays on your machine.</sub>
 
-### `04 / toolkit`
+### Toolkit
 
 `SQL` · `PostgreSQL` · `SAS` · `Python` · `Advanced Excel / VBA` · `Power BI` · `Tableau` · `QuickSight` · `Flask` · `FastAPI` · `Node` · `Agentic AI tools`
 
 <sub>Python and JavaScript work is AI-assisted.</sub>
 
-### `05 / recognition`
+### Recognition
 
 - 🏆 Invent & Simplify Award — Amazon (Director/L8), 2026
 - 🥇 Best Performer of the Month (May 2026)
 
-### `06 / say hi`
+### Say hi
 
-Open to analytics, risk & controls, BI and automation roles. See everything at **[jithinjolly2000-maker.github.io](https://jithinjolly2000-maker.github.io)**.
+Happy to talk data, risk and automation. See everything at **[jithinjolly2000-maker.github.io](https://jithinjolly2000-maker.github.io)**.
