@@ -47,8 +47,9 @@ flowchart LR
 ### Recognition
 
 - 🏆 Invent & Simplify Award — Amazon (Director/L8), 2026
+- 🎓 Erasmus+ KA107 scholar: fully funded semester at the University of Padova, Italy (2023)
 - 🥇 Best Performer of the Month (May 2026)
 
 ### Say hi
 
-Happy to talk data, risk and automation. See everything at **[jithinjolly2000-maker.github.io](https://jithinjolly2000-maker.github.io)**.
+Happy to talk data, risk and automation. [Download my résumé (public version)](https://jithinjolly2000-maker.github.io/resume/Jithin_J_Resume.pdf) or see everything at **[jithinjolly2000-maker.github.io](https://jithinjolly2000-maker.github.io)**.
